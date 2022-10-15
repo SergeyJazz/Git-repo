@@ -1,1 +1,2 @@
 prin("Hello world!!!");
+Print("Hello everybody!");
